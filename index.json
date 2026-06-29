@@ -1,23 +1,34 @@
 {
-    "name": "AO-Workshop Official Repository",
-    "id": "com.ao-workshop.repo",
-    "url": "https://ExrolTools.github.io/AONails-Installer/index.json",
-    "author": "AO-Workshop (Exrol)",
-    "packages": {
-        "com.ao-workshop.aonails-installer": {
-            "versions": {
-                "1.0.0": {
-                    "name": "com.ao-workshop.aonails-installer",
-                    "version": "1.0.0",
-                    "displayName": "AO Nails Auto Installer",
-                    "description": "Auto installer and asset manager for AO Nails.",
-                    "unity": "2022.3",
-                    "author": {
-                        "name": "AO-Workshop"
-                    },
-                    "url": "https://github.com/ExrolTools/AONails-Installer/releases/download/1.0.0/com.ao-workshop.aonails-installer-1.0.0.zip"
-                }
-            }
+  "name": "AO-Workshop Official Repository",
+  "id": "com.ao-workshop.repo",
+  "url": "https://ExrolTools.github.io/AONails-Installer/index.json",
+  "author": "AO-Workshop (Exrol)",
+  "packages": {
+    "com.ao-workshop.aonails-installer": {
+      "versions": {
+        "1.0.1": {
+          "name": "com.ao-workshop.aonails-installer",
+          "version": "1.0.1",
+          "displayName": "AO Nails Auto Installer",
+          "description": "Auto installer and asset manager for AO Nails.",
+          "unity": "2022.3",
+          "author": {
+            "name": "AO-Workshop"
+          },
+          "url": "https://github.com/ExrolTools/AONails-Installer/releases/download/1.0.1/com.ao-workshop.aonails-installer-1.0.1.zip"
+        },
+        "1.0.0": {
+          "name": "com.ao-workshop.aonails-installer",
+          "version": "1.0.0",
+          "displayName": "AO Nails Auto Installer",
+          "description": "Auto installer and asset manager for AO Nails.",
+          "unity": "2022.3",
+          "author": {
+            "name": "AO-Workshop"
+          },
+          "url": "https://github.com/ExrolTools/AONails-Installer/releases/download/1.0.0/com.ao-workshop.aonails-installer-1.0.0.zip"
         }
+      }
     }
+  }
 }
