@@ -368,6 +368,17 @@
             "name": "AO-Workshop"
           },
           "url": "https://github.com/ExrolTools/AONails-Installer/releases/download/1.4.32/com.ao-workshop.aonails-installer-1.4.32.zip"
+        },
+        "1.4.33": {
+          "name": "com.ao-workshop.aonails-installer",
+          "version": "1.4.33",
+          "displayName": "AO Nails Auto Installer",
+          "description": "Auto installer and asset manager for AO Nails.",
+          "unity": "2022.3",
+          "author": {
+            "name": "AO-Workshop"
+          },
+          "url": "https://github.com/ExrolTools/AONails-Installer/releases/download/1.4.33/com.ao-workshop.aonails-installer-1.4.33.zip"
         }
       }
     }
